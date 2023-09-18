@@ -77,25 +77,11 @@ Some of my social strenghts are:
 
 ## Languages
 
-I love to learn languages too!
+I love to learn languages too! Look at the following graph for my learning levels.
 
-* Spanish &nbsp;&nbsp;
-<img src="src/round-square_icon.png" alt="code icon" width="16">
-<img src="src/round-square_icon.png" alt="code icon" width="16">
-<img src="src/round-square_icon.png" alt="code icon" width="16">
-<img src="src/round-square_icon.png" alt="code icon" width="16">
-<img src="src/round-square_icon.png" alt="code icon" width="16">
-<img src="src/round-square_icon.png" alt="code icon" width="16">
-<img src="src/round-square_icon.png" alt="code icon" width="16">
-* English &nbsp;&nbsp;&nbsp;
-<img src="src/round-square_icon.png" alt="code icon" width="16">
-<img src="src/round-square_icon.png" alt="code icon" width="16">
-<img src="src/round-square_icon.png" alt="code icon" width="16">
-<img src="src/round-square_icon.png" alt="code icon" width="16">
-<img src="src/round-square_icon.png" alt="code icon" width="16">
-<img src="src/round-square_icon.png" alt="code icon" width="16">
-* Chinese &nbsp;&nbsp;
-<img src="src/round-square_icon.png" alt="code icon" width="16">
+* Spanish ⬜⬜⬜⬜⬜⬜⬜
+* English &nbsp;⬜⬜⬜⬜⬜⬜
+* Chinese ⬜
 
 I'm planning a travel to China for learning more Chinese 💬!
 
