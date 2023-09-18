@@ -36,6 +36,31 @@ Finally, when I'm involved in the development of professional initiatives aligne
 ![Sci-Kit Learn](https://img.shields.io/badge/SciKit-212d43?style=for-the-badge&logo=SciKit-learn&logoColor=white)
 ![Fast API](https://img.shields.io/badge/FastAPI-212d43?style=for-the-badge&logo=FastAPI&logoColor=white)
 
+<img src="src/database_icon.png" alt="database" width="28"> &nbsp;
+![Static Badge](https://img.shields.io/badge/MySQL-212d43?style=for-the-badge&logo=MySQL&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Postgres-212d43?style=for-the-badge&logo=Postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MongoDB-212d43?style=for-the-badge&logo=MongoDB&logoColor=white)
+
+<img src="src/deploy_icon.png" alt="database" width="28"> &nbsp;
+![Static Badge](https://img.shields.io/badge/Docker-212d43?style=for-the-badge&logo=Docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Hadoop-212d43?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Hive-212d43?style=for-the-badge&logo=apachehive&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Spark-212d43?style=for-the-badge&logo=apachespark&logoColor=white)
+
+<img src="src/graph_icon.png" alt="database" width="28"> &nbsp;
+![Static Badge](https://img.shields.io/badge/PowerBI-212d43?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Excel-212d43?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+<img src="src/devtools_icon.png" alt="database" width="28"> &nbsp;
+![Static Badge](https://img.shields.io/badge/Git-212d43?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Github-212d43?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Jupyter-212d43?style=for-the-badge&logo=jupyter&logoColor=white)
+![Static Badge](https://img.shields.io/badge/VSC-212d43?style=for-the-badge&logo=Visual%20studio%20code&logoColor=white)
+
+<img src="src/cloud_icon.png" alt="database" width="28"> &nbsp;
+![Static Badge](https://img.shields.io/badge/Render-212d43?style=for-the-badge&logo=Render&logoColor=white)
+
+
 <!--
 **Slindex/Slindex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
