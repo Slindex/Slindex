@@ -60,6 +60,44 @@ Finally, when I'm involved in the development of professional initiatives aligne
 <img src="src/cloud_icon.png" alt="database" width="28"> &nbsp;
 ![Static Badge](https://img.shields.io/badge/Render-212d43?style=for-the-badge&logo=Render&logoColor=white)
 
+![Soft Skills](src/soft_skills_b.png)
+
+## Social Skills
+
+I love to work everyday in my soft skills because they are game changing when it comes to work with others and succeed in projects.
+
+Some of my social strenghts are:
+
+* Active Listening
+* Formal, assertive and elaborate communication
+* Interpersonal communication
+* Leadership and team management
+* Proactive engagement
+* Team and business role awareness
+
+## Languages
+
+I love to learn languages too!
+
+* Spanish &nbsp;&nbsp;
+<img src="src/round-square_icon.png" alt="code icon" width="16">
+<img src="src/round-square_icon.png" alt="code icon" width="16">
+<img src="src/round-square_icon.png" alt="code icon" width="16">
+<img src="src/round-square_icon.png" alt="code icon" width="16">
+<img src="src/round-square_icon.png" alt="code icon" width="16">
+<img src="src/round-square_icon.png" alt="code icon" width="16">
+<img src="src/round-square_icon.png" alt="code icon" width="16">
+* English &nbsp;&nbsp;&nbsp;
+<img src="src/round-square_icon.png" alt="code icon" width="16">
+<img src="src/round-square_icon.png" alt="code icon" width="16">
+<img src="src/round-square_icon.png" alt="code icon" width="16">
+<img src="src/round-square_icon.png" alt="code icon" width="16">
+<img src="src/round-square_icon.png" alt="code icon" width="16">
+<img src="src/round-square_icon.png" alt="code icon" width="16">
+* Chinese &nbsp;&nbsp;
+<img src="src/round-square_icon.png" alt="code icon" width="16">
+
+I'm planning a travel to China for learning more Chinese 💬!
 
 <!--
 **Slindex/Slindex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
