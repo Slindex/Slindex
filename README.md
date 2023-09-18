@@ -1,5 +1,17 @@
 # Welcome to my profile!
 ![Banner Perfil](src/Banner.png)
+
+## General Info
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="src/target_icon.png" alt="code icon" width="13"> &nbsp;
+Finishing [Henry](https://www.soyhenry.com/carrera-data-science) Full Time Data Science Bootcamp<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="src/book_icon.png" alt="code icon" width="15"> &nbsp;
+Learning AI image generation (SDXL)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="src/search_icon.png" alt="code icon" width="13"> &nbsp;
+Looking for a Jr. role in any data related field<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="src/quote_icon.png" alt="code icon" width="13"> &nbsp;
+*A sucessful life is one where you leave the world better than you found it*
+
 ![Who I am?](src/who_i_am_b.png)
 
 Hello! My name is David. I'm a **passionate** professional practitioner in the data world.
@@ -64,7 +76,7 @@ Finally, when I'm involved in the development of professional initiatives aligne
 
 ## Social Skills
 
-I love to work everyday in my soft skills because they are game changing when it comes to work with others and succeed in projects.
+I love to focus everyday in my soft skills because they are game changing when it comes to collaborate with others and succeed in projects.
 
 Some of my social strenghts are:
 
@@ -77,13 +89,29 @@ Some of my social strenghts are:
 
 ## Languages
 
-I love to learn languages too! Look at the following graph for my learning levels.
+I enjoy learn languages too! Look at the following graph for my learning levels.
 
 * Spanish ⬜⬜⬜⬜⬜⬜⬜
 * English &nbsp;⬜⬜⬜⬜⬜⬜
 * Chinese ⬜
 
 I'm planning a travel to China for learning more Chinese 💬!
+
+## Design & Patterns
+
+Maybe you noticed in this readme that I'm really detailed oriented. I like to follow visual design patterns, colors and styles because I truly believe in the power of visual communication and expression. All of my developed projects related to Data Analytics follows a cohesive structure and presentation taking in consideration:
+
+* Colors
+* Fonts
+* Shapes
+* Sizes
+* Spacing
+* UX design
+
+An Image says more than 1000 words so this is an example of data visualization that follows the design patterns of this readme:
+
+![Testing](src/graph_sample.png)
+
 
 <!--
 **Slindex/Slindex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
