@@ -31,9 +31,9 @@ Finally, when I'm involved in the development of professional initiatives aligne
 ![TensorFlow](https://img.shields.io/badge/Tensorflow-212d43?style=for-the-badge&logo=Tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-212d43?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-212d43?style=for-the-badge&logo=Numpy&logoColor=white)
-![MatPlotLib](https://img.shields.io/badge/MatPlotLib-212d43?style=for-the-badge&logo=Alwaysdata&logoColor=white)
+![MatPlotLib](https://img.shields.io/badge/MatPlot-212d43?style=for-the-badge&logo=Alwaysdata&logoColor=white)
 ![SeaBorn](https://img.shields.io/badge/SeaBorn-212d43?style=for-the-badge&logo=plotly&logoColor=white)
-![Sci-Kit Learn](https://img.shields.io/badge/SciKitLearn-212d43?style=for-the-badge&logo=SciKit-learn&logoColor=white)
+![Sci-Kit Learn](https://img.shields.io/badge/SciKit-212d43?style=for-the-badge&logo=SciKit-learn&logoColor=white)
 ![Fast API](https://img.shields.io/badge/FastAPI-212d43?style=for-the-badge&logo=FastAPI&logoColor=white)
 
 <!--
