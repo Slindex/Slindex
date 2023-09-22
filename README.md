@@ -124,8 +124,8 @@ Unfortunately I discovered too late how amazing GitHub could be to share your pr
 </a>
 
 <div style="text-align: center;">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Slindex&bg_color=202D42&title_color=98BFC5&text_color=E5E9F0&hide_border=True&border_radius=10&rank_icon=github" style="display: inline-block; margin: 0 auto;">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Slindex&layout=compact&langs_count=8&card_width=320&bg_color=202D42&title_color=98BFC5&text_color=E5E9F0&hide_border=True&border_radius=10" style="display: inline-block; margin: 0 auto;">
+  <img height=185 src="https://github-readme-stats.vercel.app/api?username=Slindex&bg_color=202D42&title_color=98BFC5&text_color=E5E9F0&hide_border=True&border_radius=10&rank_icon=github" style="display: inline-block; margin: 0 auto;">
+  <img height=185 src="https://github-readme-stats.vercel.app/api/top-langs?username=Slindex&layout=compact&langs_count=8&card_width=230&bg_color=202D42&title_color=98BFC5&text_color=E5E9F0&hide_border=True&border_radius=10" style="display: inline-block; margin: 0 auto;">
 </div>
 
 **Disclaimer:** Language Card only shows stats for non-forked repositories (It does not include contributions into another users/organizations repositories sadly)
