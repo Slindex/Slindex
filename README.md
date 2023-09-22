@@ -12,6 +12,8 @@ Looking for a Jr. role in any data related field<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="src/quote_icon.png" alt="code icon" width="13"> &nbsp;
 *A sucessful life is one where you leave the world better than you found it*
 
+<br>
+
 ![Who I am?](src/who_i_am_b.png)
 
 Hello! My name is David. I'm a **passionate** professional practitioner in the data world.
