@@ -108,9 +108,7 @@ Maybe you noticed in this readme that I'm really detailed oriented. I like to fo
 * Spacing
 * UX design
 
-An Image says more than 1000 words so this is an example of data visualization that follows the design patterns of this readme:
-
-![Graph sample](src/graph_sample.png)
+An Image says more than 1000 words so this is an example of [Data Visualization](src/graph_sample.png) that follows the design patterns of this readme:
 
 ![GitHub Stats](src/github_stats_b.png)
 
