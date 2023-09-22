@@ -108,7 +108,7 @@ Maybe you noticed in this readme that I'm really detailed oriented. I like to fo
 * Spacing
 * UX design
 
-An Image says more than 1000 words so this is an example of [Data Visualization](src/graph_sample.png) that follows the design patterns of this readme:
+An Image says more than 1000 words so this is an example of [Data Visualization](src/graph_sample.png) that follows the design patterns of this readme
 
 ![GitHub Stats](src/github_stats_b.png)
 
@@ -118,5 +118,7 @@ Unfortunately I discovered too late how amazing GitHub could be to share your pr
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Slindex&bg_color=202D42&title_color=98BFC5&text_color=E5E9F0&hide_border=True&border_radius=10&rank_icon=github" style="display: inline-block; margin: 0 auto;">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Slindex&layout=compact&langs_count=8&card_width=230&bg_color=202D42&title_color=98BFC5&text_color=E5E9F0&hide_border=True&border_radius=10" style="display: inline-block; margin: 0 auto;">
 </div>
+
+<br>
 
 **Disclaimer:** Language Card only shows stats for non-forked repositories (It does not include contributions into another users/organizations repositories sadly)
