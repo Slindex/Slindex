@@ -120,7 +120,7 @@ Unfortunately I discovered too late how amazing GitHub could be to share your pr
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Slindex&bg_color=202D42&title_color=98BFC5&text_color=E5E9F0&hide_border=True&border_radius=10&rank_icon=github" />
 </a>
 <a href="https://github.com/Slindex/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Slindex&layout=compact&langs_count=8&card_width=50&bg_color=202D42&title_color=98BFC5&text_color=E5E9F0&hide_border=True&border_radius=10" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Slindex&layout=compact&langs_count=8&card_width=320&bg_color=202D42&title_color=98BFC5&text_color=E5E9F0&hide_border=True&border_radius=10" />
 </a>
 
 **Disclaimer:** Language Card only shows stats for non-forked repositories (It does not include contributions into another users/organizations repositories sadly)
