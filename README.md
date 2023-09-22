@@ -78,7 +78,7 @@ Finally, when I'm involved in the development of professional initiatives aligne
 
 I love to focus everyday in my soft skills because they are game changing when it comes to collaborate with others and succeed in projects.
 
-Some of my social strenghts are:
+Some of my social strengths are:
 
 * Active Listening
 * Formal, assertive and elaborate communication
@@ -110,20 +110,17 @@ Maybe you noticed in this readme that I'm really detailed oriented. I like to fo
 
 An Image says more than 1000 words so this is an example of data visualization that follows the design patterns of this readme:
 
-![Testing](src/graph_sample.png)
+![Graph sample](src/graph_sample.png)
 
+![GitHub Stats](src/github_stats_b.png)
 
-<!--
-**Slindex/Slindex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unfortunately I discovered too late how amazing GitHub could be to share your projects, ideas and to cooperate and contribute with others. Nevertheless, I've been active and working on!
 
-Here are some ideas to get you started:
+<a href="https://github.com/Slindex/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Slindex&bg_color=202D42&title_color=98BFC5&text_color=E5E9F0&hide_border=True&border_radius=10&rank_icon=github" />
+</a>
+<a href="https://github.com/Slindex/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Slindex&layout=compact&langs_count=8&card_width=50&bg_color=202D42&title_color=98BFC5&text_color=E5E9F0&hide_border=True&border_radius=10" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Disclaimer:** Language Card only shows stats for non-forked repositories (It does not include contributions into another users/organizations repositories sadly)
