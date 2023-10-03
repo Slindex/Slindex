@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="src/target_icon.png" alt="code icon" width="13"> &nbsp;
 Finishing [Henry](https://www.soyhenry.com/carrera-data-science) Full Time Data Science Bootcamp<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="src/book_icon.png" alt="code icon" width="15"> &nbsp;
-Learning Langchain, chainlit and Llama2 LLM usage<br>
+Learning Langchain, Chainlit and Llama2 LLM usage<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="src/search_icon.png" alt="code icon" width="13"> &nbsp;
 Looking for a Jr. role in any data related field<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="src/quote_icon.png" alt="code icon" width="13"> &nbsp;
