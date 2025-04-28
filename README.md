@@ -8,7 +8,7 @@ Graduated from [Henry](https://www.soyhenry.com/carrera-data-science) Full Time 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="src/book_icon.png" alt="code icon" width="15"> &nbsp;
 Learning Langchain, Chainlit and Llama2 LLM usage<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="src/search_icon.png" alt="code icon" width="13"> &nbsp;
-Looking for a role in any data related field<br>
+Falabella Data Analyst<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="src/quote_icon.png" alt="code icon" width="13"> &nbsp;
 *A sucessful life is one where you leave the world better than you found it*
 
